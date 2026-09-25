@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers の設定ファイル
+  "name": "game-1-study",
+  "compatibility_date": "2025-09-25",
+
+  // 静的ファイルの配信設定
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "none"
+  }
+}
